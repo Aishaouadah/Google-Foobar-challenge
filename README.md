@@ -6,7 +6,7 @@ Google Foobar challenge is a secret hiring process of Google to recruiting top p
 
 [Link](https://foobar.withgoogle.com/) the challenge is by invitation only!
 
-this challenge has 5 levels, where each level has some challenges to solve
+this challenge has 5 levels, where each level has one or more challenges to solve.
 
 
 ### Level 1 : 
