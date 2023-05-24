@@ -1,5 +1,3 @@
-# 1 <= h <= 30
-# 1 <= node <= 2^h-1
 def solution(h, q):
     output=[]
     for node in q:
@@ -16,8 +14,6 @@ def solution(h, q):
                 elif (node < mid): end = mid
                 else: start = mid
     return output
-
-
 
 print(solution(3, [7, 3, 5, 1])) # -1,7,6,3
 print(solution(5, [19, 14, 28])) #21,15,29
